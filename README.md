@@ -1,3 +1,11 @@
+# About this fork
+
+I spend a lot of time in my commute to work looking at the mod inspector, but the current iteration of the app has absolutely no mobile support so it is an absolute pain to handle.
+
+This is my attempt at creating a version of the app more accessible for mobile users.
+
+Massive WIP, can't make any promises.
+
 # Dominions 6 Mod Inspector
 An online reference for Illwinter's strategy game [Dominions 6](http://www.illwinter.com/dom6). This tool lists all of the Units, Spells, Items, Sites, Mercenaries, Events, Weapons and Armour in the game. All of the relevant statistics for each of these items is also listed. It's also possible to load game mods to see how they effects these objects.
 
